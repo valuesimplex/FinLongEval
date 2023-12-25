@@ -40,7 +40,7 @@ FinLongEval 评测集的整体工作计划如下：
 
 下图所示为本评测集的文件类型分布比例图，券商研究报告、上市公司公告/募集书（定期报告、公司发行、公司重大事项）、财经资讯、会议路演文件，占比分别为 25.4%、19.3%、17.9%、15.6%。在文件类型覆盖度和覆盖比例上面我们尽量做到与实际业务场景的需要处理文件类型分布比例保持一致。
 <div align="center">
-  <img src="https://github.com/valuesimplex/FinLongEval/blob/main/fig/%E6%96%87%E6%A1%A3%E7%B1%BB%E5%9E%8B%E5%88%86%E5%B8%83%E5%9B%BE.PNG" width="600px" height="350px">
+  <img src="https://github.com/valuesimplex/FinLongEval/blob/main/fig/%E6%96%87%E4%BB%B6%E7%B1%BB%E5%9E%8B%E5%88%86%E5%B8%83%E5%9B%BE%E9%A5%BC%E5%9B%BE.png" width="750px" height="500px">
 </div>
 
 ### 问题类型 ###
