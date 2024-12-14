@@ -209,7 +209,7 @@ FinLongEval 评测集的整体工作计划如下：
 }
 ```
 ## 参考
-1、[Fin-Eva 金融领域中文语言专业数据评测集](https://github.com/alipay/financial_evaluation_dataset)
+1、[Fin-Eval 金融领域中文语言专业数据评测集](https://github.com/alipay/financial_evaluation_dataset)
 
 2、[L-Eval: Instituting Standardized Evaluation for Long Context Language Models](https://github.com/OpenLMLab/LEval/)
 
